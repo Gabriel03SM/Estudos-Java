@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Estoque {
+public class ArraySwitch {
     static String[] produtos = new String[5]; 
     static int quantidade = 0;
 
