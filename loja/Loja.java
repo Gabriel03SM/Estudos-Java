@@ -1,5 +1,11 @@
 package EstudosIntermediario;
 
+class Produto {
+    String nome;
+    int estoque;
+    double valor;
+}
+
 public class Loja {
     public static void main(String[] args) {
         Produto leite = new Produto();
